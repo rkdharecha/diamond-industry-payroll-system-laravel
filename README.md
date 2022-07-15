@@ -16,7 +16,7 @@
 
 - The advance cash service has been added sothat if any employee need to take advance cash at future month they can take. there is a manage area for that also.
 
-- If you reached here by reading , keep calm and simply follow the <a href="#installation-local">installation</a> steps.you will get your application setup completely on your local machine.
+- If you reached here by reading , keep calm and simply follow the <a href="#installation-local">installation</a> steps. you will get your application setup completely on your local machine.
 
 ## Screenshots
 
@@ -41,8 +41,45 @@ git clone https://github.com/rkdharecha/diamond-industry-payroll-system-laravel.
 
 *Go to diamond-industry-payroll-system-laravel-master folder and open terminal then follow below steps.*
 
+*Install Composer:*
+```
+composer Install
+```
 
+*Make a copy of .env.example file to .env:*
+```
+cp .env.example .env
+```
 
+*Set the database credentials:*
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=database_name
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+*Then Generate Application Key:*
+```
+php artisan key:generate
+```
+
+*Then Migrate the database:*
+```
+php artisan migrate
+```
+
+*Now We Need to create Permissions that assign to Role (make sure to first run this command before superadmin seeding):*
+```
+php artisan db:seed --class=PermissionTableSeeder
+``` 
+
+*Create SuperAdmin:*
+```
+php artisan db:seed --class=CreateSuperAdminUserSeeder
+```
 
 
 
