@@ -17,7 +17,8 @@
 - The advance cash service has been added sothat if any employee need to take advance cash at future month they can take. there is a manage area for that also.
 
 - If you reached here by reading , keep calm and simply follow the installation steps.you will get your application setup completely on your local machine.
-## Installation
+
+## Installation (Local)
 
 *You Can Install it on your local pc by following below steps:*
 
