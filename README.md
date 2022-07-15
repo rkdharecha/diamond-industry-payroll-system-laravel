@@ -90,7 +90,7 @@ password = 12345678
 ```
 
 **Note** :
-after
+After Login as Superadmin , goto Roles from sidebar and create two more roles named *Employee* & *Manager* & assign permissions to them which you want to.
 
 
  
