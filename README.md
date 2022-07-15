@@ -81,6 +81,15 @@ php artisan db:seed --class=PermissionTableSeeder
 php artisan db:seed --class=CreateSuperAdminUserSeeder
 ```
 
+*Run php artisan serve. Open http://localhost:8000, you should see the login page.*
+
+*SuperAdmin Login*
+```
+email = superadmin@mailinator.com 
+password = 12345678
+```
+
+**Note** :
 
 
  
