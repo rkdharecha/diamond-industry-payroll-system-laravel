@@ -90,7 +90,7 @@ password = 12345678
 ```
 
 **Note** :
-After Login as Superadmin , goto Roles from sidebar and create two more roles named *Employee* & *Manager* & assign permissions to them which you want to.
+After Login as Superadmin , goto Roles from sidebar and create two more roles named *Employee* & *Manager* & assign permissions to them which you want to. for example add 2 users with role manager from superadmin and login with that two managers and create employees from them.
 
 
  
