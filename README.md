@@ -10,10 +10,18 @@
 
 - You can add the worktypes (type of diamonds).
 
-- Note that you will get the role called **SuperAdmin** added pre default. you need to create two roles named **Employee** &  **Managar** at your own which will be provided in installation steps.
+- **Note** : you will get the role called **SuperAdmin** added pre default. you need to create two roles named **Employee** &  **Managar** at your own which will be provided in installation steps.
+
+- **Note** : Only one superadmin can be register via seeding there is not option for register only login option is given sothat anyone from outside cannot be register as superadmin.
 
 - The advance cash service has been added sothat if any employee need to take advance cash at future month they can take. there is a manage area for that also.
 
-- If you reached here by reading , keep calm and simply follow the <a href="#installation">installation</a> steps as it is you will get your application setup completely on your local machine.
+- If you reached here by reading , keep calm and simply follow the <a href="#installation">installation</a> steps.you will get your application setup completely on your local machine.
+
+## Screenshots
+
+
+
+
 
  
