@@ -10,7 +10,7 @@
 
 - you can add the worktypes (type of diamonds).
 
-- note that you will get the role called **SuperAdmin** added pre default. you need to create two roles named **Employee** &  **Maneger** at your own which will be provied in installation steps.
+- note that you will get the role called **SuperAdmin** added pre default. you need to create two roles named **Employee** &  **Manegar** at your own which will be provied in installation steps.
 
 - the advansh cash service has been added sothat if any employee need to take advansh cash at future month they can take. there is a manage area for that also.
 
