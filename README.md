@@ -18,17 +18,6 @@
 
 - If you reached here by reading , keep calm and simply follow the installation steps.you will get your application setup completely on your local machine.
 
-## Installation (Local)
-
-*You Can Install it on your local pc by following below steps:*
-
-*Download or clone the repository in your system.*
-
-```
-git clone https://github.com/rkdharecha/diamond-industry-payroll-system-laravel.git
-```
-
-*Go to diamond-industry-payroll-system-laravel-master folder and open terminal then follow below steps.*
 
 ## Screenshots
 
@@ -41,6 +30,17 @@ git clone https://github.com/rkdharecha/diamond-industry-payroll-system-laravel.
 ## Employee Dashboard
 <a href="https://i.imgur.com/Euc5s01.png?1"><img src="https://i.imgur.com/Euc5s01.png?1" title="source: imgur.com" /></a><br>
 
+## Installation (Local)
+
+*You Can Install it on your local pc by following below steps:*
+
+*Download or clone the repository in your system.*
+
+```
+git clone https://github.com/rkdharecha/diamond-industry-payroll-system-laravel.git
+```
+
+*Go to diamond-industry-payroll-system-laravel-master folder and open terminal then follow below steps.*
 
 
 
