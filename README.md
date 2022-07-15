@@ -20,6 +20,18 @@
 
 ## Screenshots
 
+## SuperAdmin Dashboard
+<a href="https://i.imgur.com/LH4MeEV.png?1"><img src="https://i.imgur.com/LH4MeEV.png?1" title="source: imgur.com" /></a><br>
+
+## Manager Dashboard
+<a href="https://i.imgur.com/JKbFqDs.png?1"><img src="https://i.imgur.com/JKbFqDs.png?1" title="source: imgur.com" /></a><br>
+
+## Employee Dashboard
+<a href="https://i.imgur.com/Euc5s01.png?1"><img src="https://i.imgur.com/Euc5s01.png?1" title="source: imgur.com" /></a><br>
+
+
+
+
 
 
 
