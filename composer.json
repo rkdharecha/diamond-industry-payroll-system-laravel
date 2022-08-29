@@ -13,6 +13,7 @@
         "laravel/tinker": "^2.7",
         "laravel/ui": "^3.4",
         "laravelcollective/html": "^6.3",
+        "silber/page-cache": "^1.0",
         "spatie/laravel-backup": "^8.1",
         "spatie/laravel-export": "^0.3.10",
         "spatie/laravel-permission": "^5.5",
